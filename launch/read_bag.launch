@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="qt_rosbag_reader" name="main" type="main.py" output="screen" />
+</launch>
