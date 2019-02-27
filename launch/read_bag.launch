@@ -1,3 +1,4 @@
 <launch>
 	<node pkg="qt_rosbag_reader" name="main" type="main.py" output="screen" />
+	<param name="init_dir" value="/home/atsushi/" />
 </launch>
